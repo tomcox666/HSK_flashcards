@@ -3,3 +3,5 @@ Mandarin flashcard app - following the course layout for HSK (Currently level 1 
 First attempt at prodcuing an app, the premise is a flashcard app that will show charachter and pronounciation then upon tapping reveal the english tanslation.
 
 all data imported from CSV file, cycling the indexes randmly to create the movement from one screen to the next
+
+app/src/main/java/com/example/hskflashcards - is where the main logic can be found
